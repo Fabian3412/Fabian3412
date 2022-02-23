@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Fabian3412 (Fabian Palacios)
+- 👀 I’m interested in digital disruption in the AEC Industry (Construction)
+- 🌱 I’m currently learning JavaScript, CSS and HTML
+- 💞️ I’m looking to collaborate on Web development solutions applied to AEC Industry (Construction)
+- 📫 Feel free to reach me at fabianpalacios3412@gmail.com and fabian3412#1992 (Discord)
